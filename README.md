@@ -1,6 +1,6 @@
-# simple-web-clojure
+# Project 1 Simple Web
 
-FIXME
+A super simple web application using compojure and hiccup (clojure)
 
 ## Prerequisites
 
@@ -14,6 +14,6 @@ To start a web server for the application, run:
 
     lein ring server
 
-## License
+## Released under MIT License
 
-Copyright © 2022 FIXME
+Copyright © 2022 Ryan Abdurohman.
